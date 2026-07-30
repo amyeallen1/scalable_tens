@@ -1,0 +1,1 @@
+Scripts in this folder are for processing downloads from URBANopt internal UI to create URBANopt geoJSON file. 
